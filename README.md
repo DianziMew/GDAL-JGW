@@ -1,7 +1,7 @@
 
 # GDAL-JGW: 地理影像轻量化搬运工
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.4+-blue.svg)](https://www.python.org/)
 [![GDAL](https://img.shields.io/badge/Powered%20by-GDAL-green.svg)](https://gdal.org/)
 [![License](https://img.shields.io/badge/License-AGPL3.0-black.svg)](LICENSE)
 
