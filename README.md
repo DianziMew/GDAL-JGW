@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![GDAL](https://img.shields.io/badge/Powered%20by-GDAL-green.svg)](https://gdal.org/)
-[![License](https://img.shields.io/badge/License-APGL3.0-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL3.0-black.svg)](LICENSE)
 
 > **“让笨重的 TIFF 变身轻盈的 JPG，同时不弄丢它的‘家’（地理坐标）。”**
 
