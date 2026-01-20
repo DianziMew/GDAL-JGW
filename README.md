@@ -1,6 +1,6 @@
 <div align ="center">
   
-# GDAL-JGW: 地理影像轻量化搬运工
+# GDAL-JGW
 </div>
 
 <div align ="center">
