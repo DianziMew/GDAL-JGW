@@ -37,6 +37,13 @@
 
 本项目依赖于强大的 **GDAL** 库。请确保您的 Python 环境中已安装 GDAL。
 
-### 推荐安装方式 (Conda)
+### Windows推荐安装方式 (Conda)
 ```bash
 conda install gdal
+```
+
+### Linux推荐安装方式 (Ubuntu与Debian)
+```bash
+sudo apt-get install python3-gdal
+```
+
