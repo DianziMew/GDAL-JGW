@@ -18,13 +18,14 @@
 
 在 GIS 开发和数据处理中，我们经常遇到巨大的 `.tif` 影像。它们虽然信息丰富，但在 Web 展示、快速预览或移动端应用中显得过于沉重。
 
-**Geo-Tiff2JPG** 是一个 Python 自动化工具，旨在解决两个痛点：
-1. **轻量化转换**：将 GB/TB 级的 TIFF 批量转为高压缩比的 JPG。
-2. **基因继承**：自动提取 TIFF 内部的地理参考信息，并生成对应的 `.jgw` (World File)，确保图片在 ArcGIS、QGIS 或 Global Mapper 中依然能精准“定位”。
 <div align="center">
   <img src="demo_img/demo_img.png" alt="GDAL-JGW Process" width="800">
   <p><i>TIFF切割压缩为JPG与JGW流程演示</i></p>
 </div>
+**Geo-Tiff2JPG** 是一个 Python 自动化工具，旨在解决两个痛点：
+1. **轻量化转换**：将 GB/TB 级的 TIFF 批量转为高压缩比的 JPG。
+2. **基因继承**：自动提取 TIFF 内部的地理参考信息，并生成对应的 `.jgw` (World File)，确保图片在 ArcGIS、QGIS 或 Global Mapper 中依然能精准“定位”。
+
 
 ---
 
