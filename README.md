@@ -11,15 +11,13 @@
 </div>
 
 > **“让笨重的 TIFF 变身轻盈的 JPG，同时不弄丢它的‘家’（地理坐标）。”**
-
----
-
-## 📖 简介
-
 <div align="center">
   <img src="demo_img/demo_img.png" alt="GDAL-JGW Process" width="800">
   <p><i>TIFF切割压缩为JPG与JGW流程演示</i></p>
 </div>
+---
+
+## 📖 简介
 
 
 在 GIS 开发和数据处理中，我们经常遇到巨大的 `.tif` 影像。它们虽然信息丰富，但在 Web 展示、快速预览或移动端应用中显得过于沉重。
